@@ -1,0 +1,33 @@
+{
+  "v": "0.7.2",
+  "ad": "ID Kalem Kurulum 0.7.2.exe",
+  "boyut": 106474198,
+  "sha256": "78722a7e25d6ef3f08cecf0972e59fb9bbb5eda2514e9e805479be727a2ffeb6",
+  "parcalar": [
+    {
+      "ad": "idkalem-0.7.2-1.bin",
+      "boyut": 25165824,
+      "sha256": "ce88e1261d34918fee0681454071b97031ef1a17b17623fb8dbe2de46c833f5a"
+    },
+    {
+      "ad": "idkalem-0.7.2-2.bin",
+      "boyut": 25165824,
+      "sha256": "801ae28f9b7697b6835b1cca99fb2b2430b28e3119c64ab78966710d875d87b0"
+    },
+    {
+      "ad": "idkalem-0.7.2-3.bin",
+      "boyut": 25165824,
+      "sha256": "7178659a99f38c2897b3160ca26912ac8be4eacbff4f6bf940a33a3efe1ef48c"
+    },
+    {
+      "ad": "idkalem-0.7.2-4.bin",
+      "boyut": 25165824,
+      "sha256": "3267e545f627b19dac64e29ce166734dfc5bfe07f429b78de821cc4d3000f42b"
+    },
+    {
+      "ad": "idkalem-0.7.2-5.bin",
+      "boyut": 5810902,
+      "sha256": "b2191d994caf066a930470142ad70abbedb71c931b11b143db8e8a47b1037c25"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "v": "0.7.2",
+  "notlar": [
+    "Çöp kutusu kolaylık için yukarı taşındı",
+    "Renk menüsü artık daha kompakt ve rahat",
+    "Yazılımsal geliştirmeler yapıldı"
+  ],
+  "dosya": "app-0.7.2.bin",
+  "boyut": 3075187,
+  "sha256": "a8f9c687a873a621fe0971d901815120b8bf77784021ba12a673104bd17fb23d",
+  "imza": "msWyLujFFPzfrekPOKYu1EFmXeiO242tb+1Ft8+2MNbDfeaIh11v65rASUwVCClsZ+pT5qckByh6VY7KWda8BA=="
+}
